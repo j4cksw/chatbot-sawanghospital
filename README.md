@@ -7,5 +7,8 @@ https://docs.google.com/presentation/d/1hl6WoF2CxiU2jtGejMJzzDqNg9AfeSjL0p8crR18
 ## Facebook chatbot application cheat sheet
 https://chatbotsmagazine.com/cheat-sheet-all-facebook-chatbot-interactions-4b14e4e00178
 
+## Facebook developer
+https://developers.facebook.com/
+
 ## Facebook messenger document
 https://developers.facebook.com/docs/messenger-platform/
